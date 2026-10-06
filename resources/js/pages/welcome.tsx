@@ -20,28 +20,28 @@ export default function Welcome() {
                     </a>
                     <div className="nav-links">
 
-                        <a href="#about"> About </a>
+                        <a href="#about"> Tentang Kami </a>
 
                         <a href="#business">
-                            Business
+                            Bisnis
                         </a>
 
                         <a href="#brands">
-                            Brands
+                            Merek
                         </a>
 
                         <a href="#location">
-                            Location
+                            Lokasi
                         </a>
 
                         <a href="#contact">
-                            Contact
+                            Kontak
                         </a>
 
                     </div>
 
                     <a href="#contact" className="nav-button">
-                        <span>Let's talk</span>
+                        <span>Yok Kesahan</span>
                         <span>↗</span>
                     </a>
 
@@ -75,15 +75,15 @@ export default function Welcome() {
 
 
                         <h1>
-                            Growing
+                            FOODINESIA
                             <br />
-                            <span>through food.</span>
+                            <span>DARI BELANTARA KE NUSANTARA.</span>
                         </h1>
 
 
                         <p className="hero-description">
-                            Building modern food and beverage brands
-                            from East Kalimantan, Indonesia.
+                            Membangun merek makanan dan minuman modern dari Kalimantan Timur, Indonesia.
+
                         </p>
 
 
@@ -93,7 +93,7 @@ export default function Welcome() {
                                 href="#brands"
                                 className="primary-button"
                             >
-                                <span>Explore our brands</span>
+                                <span>Jelajahi merek kami</span>
                                 <span>↗</span>
                             </a>
 
@@ -101,7 +101,7 @@ export default function Welcome() {
                                 href="#about"
                                 className="secondary-button"
                             >
-                                About Foodinesia
+                                Tentang Foodinesia
                             </a>
 
                         </div>
@@ -119,7 +119,7 @@ export default function Welcome() {
                         <div className="hero-card">
 
                             <div className="hero-card-top">
-                                <span>FOOD & BEVERAGE</span>
+                                <span>MAKANAN & MINUMAN</span>
                                 <span>01</span>
                             </div>
 
@@ -131,7 +131,7 @@ export default function Welcome() {
 
                             <div className="hero-card-bottom">
                                 <small>
-                                    East Kalimantan
+                                    Kalimantan Timur
                                 </small>
 
                                 <span>↗</span>
@@ -144,7 +144,7 @@ export default function Welcome() {
 
                     <div className="hero-scroll">
 
-                        <span>SCROLL TO EXPLORE</span>
+                        <span>GULIR UNTUK MENJELAJAHI</span>
 
                         <div className="hero-scroll-line"></div>
 
@@ -168,19 +168,19 @@ export default function Welcome() {
 
                             <div>
                                 <p className="section-label">
-                                    ABOUT FOODINESIA
+                                    TENTANG FOODINESIA
                                 </p>
 
                                 <h2>
-                                    More than
+                                    Lebih dari sekadar
                                     <br />
-                                    <span>a food company.</span>
+                                    <span>perusahaan makanan.</span>
                                 </h2>
                             </div>
 
                             <div className="intro-index">
                                 <span>01</span>
-                                <span>WHO WE ARE</span>
+                                <span>SIAPA KAMI</span>
                             </div>
 
                         </div>
@@ -190,9 +190,7 @@ export default function Welcome() {
 
                             <div className="intro-statement">
                                 <p>
-                                    We build food & beverage brands
-                                    designed to become part of
-                                    everyday life.
+                                    Kami membangun merek makanan dan minuman yang dirancang untuk menjadi bagian dari kehidupan sehari-hari.
                                 </p>
                             </div>
 
@@ -200,25 +198,15 @@ export default function Welcome() {
                             <div className="intro-copy">
 
                                 <p>
-                                    PT. Foodiholic Group Indonesia is a
-                                    Food & Beverage company based in
-                                    Tenggarong, Kalimantan Timur,
-                                    Indonesia.
+                                    PT. Foodiholic Group Indonesia adalah perusahaan makanan dan minuman yang berbasis di Tenggarong, Kalimantan Timur, Indonesia.
                                 </p>
 
                                 <p>
-                                    Through our brands, we develop and
-                                    operate modern food and beverage
-                                    concepts with a focus on quality,
-                                    consistency, and meaningful customer
-                                    experiences.
+                                    Melalui berbagai merek kami, kami mengembangkan dan mengelola konsep makanan dan minuman modern dengan fokus pada kualitas, konsistensi, dan pengalaman pelanggan yang bermakna.
                                 </p>
 
                                 <p>
-                                    We believe a good product is not only
-                                    about taste. It is about the people,
-                                    service, experience, and moments
-                                    created around it.
+                                    Kami percaya bahwa produk yang baik bukan hanya tentang rasa. Namun juga tentang orang-orang, pelayanan, pengalaman, dan momen yang tercipta di dalamnya.
                                 </p>
 
                             </div>
@@ -228,11 +216,11 @@ export default function Welcome() {
 
                         <div className="intro-bottom">
 
-                            <span>FOOD & BEVERAGE</span>
+                            <span>MAKANAN & MINUMAN</span>
 
                             <span className="intro-line"></span>
 
-                            <span>EAST KALIMANTAN · INDONESIA</span>
+                            <span>KALIMANTAN TIMUR · INDONESIA</span>
 
                         </div>
 
@@ -253,21 +241,20 @@ export default function Welcome() {
 
                             <div>
                                 <p className="section-label">
-                                    COMPANY VALUES
+                                    NILAI-NILAI PERUSAHAAN
                                 </p>
 
                                 <h2>
-                                    What we
+                                   Apa yang kami
                                     <br />
-                                    <span>believe in.</span>
+                                    <span>yakini.</span>
                                 </h2>
                             </div>
 
 
                             <p className="values-intro">
-                                We believe great food and beverage brands
-                                are built with quality, consistency, curiosity,
-                                and people at the center of everything we do.
+                                Kami percaya bahwa merek makanan dan minuman yang hebat dibangun dengan kualitas, konsistensi, rasa ingin tahu, dan menempatkan manusia sebagai pusat dari segala yang kami lakukan.
+
                             </p>
 
                         </div>
@@ -288,13 +275,11 @@ export default function Welcome() {
                                 <div className="value-content">
 
                                     <h3>
-                                        Quality
+                                        Kualitas
                                     </h3>
 
                                     <p>
-                                        Selecting quality ingredients and
-                                        maintaining standards throughout
-                                        every process.
+                                        Memilih bahan berkualitas dan menjaga standar dalam setiap proses.
                                     </p>
 
                                 </div>
@@ -315,12 +300,11 @@ export default function Welcome() {
                                 <div className="value-content">
 
                                     <h3>
-                                        Consistency
+                                        Konsistensi
                                     </h3>
 
                                     <p>
-                                        Building reliable products and
-                                        experiences across every outlet.
+                                       Membangun produk dan pengalaman yang konsisten di setiap outlet.
                                     </p>
 
                                 </div>
@@ -341,13 +325,11 @@ export default function Welcome() {
                                 <div className="value-content">
 
                                     <h3>
-                                        Innovation
+                                        Inovasi
                                     </h3>
 
                                     <p>
-                                        Continuously developing products,
-                                        brands, and experiences for the
-                                        people we serve.
+                                        Terus mengembangkan produk, merek, dan pengalaman bagi orang-orang yang kami layani.
                                     </p>
 
                                 </div>
@@ -368,12 +350,11 @@ export default function Welcome() {
                                 <div className="value-content">
 
                                     <h3>
-                                        Together
+                                        Bersama
                                     </h3>
 
                                     <p>
-                                        Creating spaces where people can
-                                        connect, enjoy, and grow together.
+                                        Menciptakan ruang bagi orang-orang untuk terhubung, menikmati, dan berkembang bersama.
                                     </p>
 
                                 </div>
@@ -391,15 +372,42 @@ export default function Welcome() {
                     <section id="business" className="business-section" >
                         <div className="business-header"> 
                             <div> 
-                                <p className="section-label"> WHAT WE DO </p> <h2> Building brands. <br /> 
-                                <span>Growing businesses.</span> 
+                                <p className="section-label"> APA YANG KAMI LAKUKAN </p> 
+                                <h2> Membangun merek. <br /> 
+                                <span>Mengembangkan bisnis.</span> 
                                 </h2> 
                             </div> 
-                            <p className="business-intro"> Foodinesia develops food & beverage businesses from concept to customer experience — combining brand, product, operations, and technology. </p> 
+                            <p className="business-intro"> Foodinesia mengembangkan bisnis makanan dan minuman dari konsep hingga pengalaman pelanggan — dengan menggabungkan merek, produk, operasional, dan teknologi. </p> 
                         </div> 
                         <div className="business-video-wrapper"> 
                             <div className="business-video"> 
-                                <iframe id="foodinesia-reel" src="https://www.instagram.com/reel/DdvFurdTOdd/embed" title="Foodinesia Instagram Reel" frameBorder="0" scrolling="no" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen ></iframe> </div> <div className="business-video-selector"> <button type="button" className="video-selector active" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DdvFurdTOdd/embed"; }} > <span>01</span> <span>Foodinesia Reel</span> <span>↗</span> </button> <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DcS3A5IPRf9/embed"; }} > <span>02</span> <span>Foodinesia Reel</span> <span>↗</span> </button> <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DXb6W-Cziv6/embed"; }} > <span>03</span> <span>Foodinesia Reel</span> <span>↗</span> </button> <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DXbr9mKTfxt/embed"; }} > <span>04</span> <span>Foodinesia Reel</span> <span>↗</span> </button> </div> </div> </section>
+                                <iframe id="foodinesia-reel" src="https://www.instagram.com/reel/DdvFurdTOdd/embed" title="Foodinesia Instagram Reel" frameBorder="0" scrolling="no" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen >
+                                </iframe> 
+                            </div> 
+                        <div className="business-video-selector"> 
+                            <button type="button" className="video-selector active" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DdvFurdTOdd/embed"; }} >
+                             <span>01</span> 
+                             <span>Foodinesia Reel</span> 
+                             <span>↗</span> 
+                             </button> 
+                             
+                             <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DcS3A5IPRf9/embed"; }} > <span>02</span> 
+                             <span>Foodinesia Reel</span> 
+                             <span>↗</span> 
+                             </button>
+                             
+                             <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DXb6W-Cziv6/embed"; }} > <span>03</span> 
+                             <span>Foodinesia Reel</span> 
+                             <span>↗</span> 
+                             </button> 
+                             
+                             <button type="button" className="video-selector" onClick={() => { const iframe = document.getElementById( "foodinesia-reel" ) as HTMLIFrameElement; iframe.src = "https://www.instagram.com/reel/DXbr9mKTfxt/embed"; }} > <span>04</span> 
+                             <span>Foodinesia Reel</span> 
+                             <span>↗</span> 
+                             </button> 
+                        </div>
+                        </div> 
+                    </section>
 
 
 
@@ -415,19 +423,17 @@ export default function Welcome() {
                             <div className="brands-header">
 
                                 <p className="section-label">
-                                    OUR BRANDS
+                                   MEREK KAMI
                                 </p>
 
                                 <h2>
-                                    Three brands.
+                                    Tiga merek. 
                                     <br />
-                                    <span>One Foodinesia.</span>
+                                    <span>Satu Foodinesia.</span>
                                 </h2>
 
                                 <p className="brands-intro">
-                                    Foodinesia develops and operates food and beverage
-                                    brands designed for different moments, tastes,
-                                    and everyday experiences.
+                                    Foodinesia mengembangkan dan mengelola merek makanan dan minuman yang dirancang untuk berbagai momen, selera, dan pengalaman sehari-hari.
                                 </p>
 
                             </div>
@@ -448,7 +454,7 @@ export default function Welcome() {
                                         </span>
 
                                         <span className="brand-category">
-                                            TEA & BEVERAGE
+                                            TEH & MINUMAN
                                         </span>
 
                                     </div>
@@ -475,7 +481,7 @@ export default function Welcome() {
                                             berbagai aktivitas sehari-hari.
                                         </p>
 
-                                        <a href="http://selaluteh.test"> Explore Selalu Teh <span>→</span> 
+                                        <a href="http://selaluteh.test"> Jelajahi Selalu Teh <span>→</span> 
                                         </a>
 
                                     </div>
@@ -496,7 +502,7 @@ export default function Welcome() {
                                         </span>
 
                                         <span className="brand-category">
-                                            COFFEE
+                                            KOPI
                                         </span>
 
                                     </div>
@@ -524,7 +530,7 @@ export default function Welcome() {
                                         </p>
 
                                         <a href="https://selkop-id.pages.dev">
-                                            Explore Selkop
+                                            Jelajahi Selkop
                                             <span>→</span>
                                         </a>
 
@@ -546,7 +552,7 @@ export default function Welcome() {
                                         </span>
 
                                         <span className="brand-category">
-                                            COFFEE & DONUT
+                                            KOPI & DONAT
                                         </span>
 
                                     </div>
@@ -568,12 +574,10 @@ export default function Welcome() {
                                         </h3>
 
                                         <p>
-                                            Konsep coffee and donut yang memadukan
-                                            kopi, donat, dan ruang yang nyaman untuk
-                                            menikmati momen sehari-hari.
+                                            Konsep kopi dan donat yang memadukan kopi, donat, dan ruang yang nyaman untuk menikmati momen sehari-hari.
                                         </p>
 
-                                        <a href="http://tkd.test"> Explore TKD <span>→</span> 
+                                        <a href="http://tkd.test"> Jelajahi TKD <span>→</span> 
                                         </a>
 
                                     </div>
@@ -588,9 +592,9 @@ export default function Welcome() {
                             <div className="brands-footnote">
 
                                 <p>
-                                    Three different concepts.
+                                    Tiga konsep berbeda.
                                     <br />
-                                    One growing family.
+                                    Satu keluarga yang terus berkembang.
                                 </p>
 
                                 <span>
@@ -616,19 +620,17 @@ export default function Welcome() {
                                 <div className="location-header">
 
                                     <p className="section-label">
-                                        COMPANY LOCATION
+                                        LOKASI PERUSAHAAN
                                     </p>
 
                                     <h2>
-                                        We're here.
+                                        Kami berada di sini.
                                         <br />
-                                        <span>Building from East Kalimantan.</span>
+                                        <span>Membangun dari Kalimantan Timur.</span>
                                     </h2>
 
                                     <p className="location-intro">
-                                        Foodinesia is based in Tenggarong, East Kalimantan,
-                                        building and developing food & beverage brands
-                                        with a vision to grow beyond the region.
+                                        Foodinesia berbasis di Tenggarong, Kalimantan Timur, membangun dan mengembangkan merek makanan dan minuman dengan visi untuk berkembang melampaui wilayah ini.
                                     </p>
 
                                 </div>
@@ -650,7 +652,7 @@ export default function Welcome() {
                                             </span>
 
                                             <small>
-                                                EAST KALIMANTAN
+                                                KALIMANTAN TIMUR
                                             </small>
                                         </div>
 
@@ -658,7 +660,7 @@ export default function Welcome() {
 
 
                                     <div className="location-coordinate">
-                                        EAST KALIMANTAN
+                                        KALIMANTAN TIMUR
                                         <br />
                                         INDONESIA
                                     </div>
@@ -670,7 +672,7 @@ export default function Welcome() {
 
                                     <div>
                                         <span className="location-footer-label">
-                                            COMPANY &nbsp;
+                                            PERUSAHAAN &nbsp;
                                         </span>
                                         
                                         <strong>
@@ -681,7 +683,7 @@ export default function Welcome() {
 
                                     <div>
                                         <span className="location-footer-label">
-                                            BASED IN &nbsp;
+                                            BERBASIS DI &nbsp;
                                         </span>
 
                                         <strong>
@@ -710,13 +712,13 @@ export default function Welcome() {
                             <div className="contact-header">
 
                                 <p className="section-label">
-                                    GET IN TOUCH
+                                    HUBUNGI KAMI
                                 </p>
 
                                 <h2>
-                                    Let's build
+                                    Mari membangun sesuatu
                                     <br />
-                                    <span>something memorable.</span>
+                                    <span>yang berkesan.</span>
                                 </h2>
 
                             </div>
@@ -725,9 +727,7 @@ export default function Welcome() {
                             <div className="contact-body">
 
                                 <p>
-                                    Interested in working with Foodinesia,
-                                    building a brand, or exploring a
-                                    collaboration?
+                                    Tertarik bekerja sama dengan Foodinesia, membangun sebuah merek, atau menjajaki kolaborasi?
                                 </p>
 
 
@@ -737,7 +737,7 @@ export default function Welcome() {
                                     rel="noopener noreferrer"
                                     className="contact-button"
                                 >
-                                    <span>Get in touch</span>
+                                    <span>Hubungi kami</span>
                                     <span className="contact-arrow">↗</span>
                                 </a>
 
@@ -749,7 +749,7 @@ export default function Welcome() {
                                 <div className="contact-meta-item">
 
                                     <span>
-                                        COMPANY
+                                        PERUSAHAAN
                                     </span>
 
                                     <strong>
@@ -761,7 +761,7 @@ export default function Welcome() {
                                 <div className="contact-meta-item">
 
                                     <span>
-                                        LOCATION
+                                        LOKASI
                                     </span>
 
                                     <strong>
@@ -794,7 +794,7 @@ export default function Welcome() {
                     <div className="footer-brand">
 
                         <p className="footer-label">
-                            FOOD & BEVERAGE COMPANY
+                            PERUSAHAAN MAKANAN & MINUMAN
                         </p>
 
                         <h2>
@@ -802,8 +802,8 @@ export default function Welcome() {
                         </h2>
 
                         <p className="footer-description">
-                            Building and developing food & beverage
-                            brands from East Kalimantan.
+                            Membangun dan mengembangkan merek makanan dan minuman dari Kalimantan Timur.
+
                         </p>
 
                     </div>
@@ -812,27 +812,27 @@ export default function Welcome() {
                     <div className="footer-navigation">
 
                         <p className="footer-label">
-                            NAVIGATION
+                            NAVIGASI
                         </p>
 
                         <a href="#about">
-                            About
+                            Tentang Kami
                         </a>
 
                         <a href="#values">
-                            Values
+                            Nilai-Nilai
                         </a>
 
                         <a href="#brands">
-                            Brands
+                            Merek
                         </a>
 
                         <a href="#location">
-                            Location
+                            Lokasi
                         </a>
 
                         <a href="#contact">
-                            Contact
+                            Kontak
                         </a>
 
                     </div>
@@ -841,7 +841,7 @@ export default function Welcome() {
                     <div className="footer-company">
 
                         <p className="footer-label">
-                            COMPANY
+                            PERUSAHAAN
                         </p>
 
                         <strong>
